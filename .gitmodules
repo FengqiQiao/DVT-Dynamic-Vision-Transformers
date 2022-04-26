@@ -1,0 +1,3 @@
+[submodule "Dynamic-Vision-Transformer-MindSpore"]
+	path = Dynamic-Vision-Transformer-MindSpore
+	url = https://github.com/blackfeather-wang/Dynamic-Vision-Transformer-MindSpore.git
