@@ -1,0 +1,5 @@
+apex==0.1
+python==3.7.10
+pytorch==1.8.1
+pyyaml==6.0
+torchvision==0.9.1
