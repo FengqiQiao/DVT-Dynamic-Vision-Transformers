@@ -1,3 +1,6 @@
 # ignore all data sets (too large)
 /Data
 *.tar*
+
+# ignore build
+.idea/
